@@ -6,7 +6,7 @@ def write(name, desc):
 
 # 하단 버튼 링크 연결 함수
 def button(*args):
-  link = "https://www.facebook.com/profile.php?id=100042266040723" # https:// 꼭 붙여야 연결됩니다!
+  link = "https://www.youtube.com/watch?v=xfR0iTh8PSI" # https:// 꼭 붙여야 연결됩니다!
   webbrowser.open(link)
 
 # 배경 색깔 설정 함수
