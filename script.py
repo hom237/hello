@@ -27,7 +27,7 @@ background(colors)
 # 이름과 설명, 버튼에 들어갈 글 설정
 write("name", "이진식")
 write("description", "관천중학교")
-write("button", "페이스북")
+write("button", "추천 곡")
 
 # 상세설명에 들어갈 제목과 글 설정
 informations = {
